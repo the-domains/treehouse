@@ -1,0 +1,14 @@
+layout_spectrum: 0.6484963
+typography_spectrum: 0.641604
+color:
+  lightness: 0.9532012
+  brandStrength: 0.3723432
+  saturation: 0.05063727
+  rhythmicContrast: 0.1062839
+  brandColors:
+    - '#F5F9FC'
+    - '#060606'
+    - '#9EC6DD'
+    - '#69C201'
+    - '#277200'
+name: Treehouse
